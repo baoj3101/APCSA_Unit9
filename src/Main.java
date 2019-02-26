@@ -4,9 +4,9 @@ import java.util.ArrayList;
 public class Main {
 
 	public static void main(String[] args) {
-		ListFirstSumRunner ();			// test list sum first
+		ListFirstSumRunner ();	        // test list sum first
 		ListOddToEvenRunner ();         // test list odd to even
-		ListDonwRunner();				// test list down
+		ListDonwRunner();	        // test list down
 	}
 
 	public static void ListFirstSumRunner () {
